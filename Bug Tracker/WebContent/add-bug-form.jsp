@@ -32,7 +32,7 @@
 					<tr>
 						<td align=right valign="top"><label>Issue:</label></td>
 						<td><textarea rows="4" cols="37" name="issue"
-								placeholder="Max 120 characters."></textarea>
+								placeholder="Max 250 characters."></textarea>
 					</tr>
 
 					<tr>
